@@ -1,0 +1,1 @@
+rm -rf best_model_checkpoint/; rm -rf model_checkpoints/; rm -rf runs; rm -rf runs_pkl_files/; rm -rf visualization/; rm -rf train_weighted.png; rm -rf valid_weighted.png; rm -rf train_unweighted.png; rm -rf valid_unweighted.png
